@@ -20,6 +20,8 @@
 * ***Remove input folder***: tick this box in case the input folder should be deleted once the zip file has been created.
 3. The zip file is generated.
 
+NB: This plugin is fully macro recordable.
+
 # Versions
 ## 2020/10/27: Version 1.0
 Initial release
