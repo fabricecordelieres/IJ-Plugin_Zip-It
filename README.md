@@ -18,12 +18,7 @@ This plugin is aimed at providing a way to easily create a Zip file from a folde
 * ***Output folder***: select the output folder, where the zip file will be saved, using the "Browse" button or by dragging and dropping the fodler to the text box. Warning: input and output folders should be different, and output folder should not be included in input folder !
 * ***Zip filename***: type-in the name of the zip file that will be created.
 * ***Remove input folder***: tick this box in case the input folder should be deleted once the zip file has been created.
-3. The zip file shoul be generated.
-
-<p align="center">
-  <img src="images/Example_maps.jpg"></br>
-  <i><b>Examples of outputs, based on the "blob" image</b></i>
-</p>
+3. The zip file is generated.
 
 # Versions
 ## 2020/10/27: Version 1.0
