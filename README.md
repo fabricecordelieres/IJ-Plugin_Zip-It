@@ -1,5 +1,5 @@
 # IJ-Plugin_Zip-It
-This plugin is aimed at providing a way to easily create a Zip file from a folder from ImageJ macros
+*This plugin is aimed at providing a way to easily create a Zip file from a folder from ImageJ macros*
 
 ## Installation
 1. Make sure you are running at least **ImageJ v1.53s**: Update ImageJ using the "Help/Update ImageJ" menu.
