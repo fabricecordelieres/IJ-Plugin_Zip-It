@@ -23,5 +23,5 @@
 NB: This plugin is fully macro recordable.
 
 # Versions
-## 2020/10/27: Version 1.0
+## 2022/10/27: Version 1.0
 Initial release
